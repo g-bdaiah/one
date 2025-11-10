@@ -12,6 +12,7 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.55.0",
     "@types/uuid": "^10.0.0",
+    "caniuse-lite": "^1.0.30001754",
     "dotenv": "^17.2.1",
     "leaflet": "^1.9.4",
     "lucide-react": "^0.344.0",
